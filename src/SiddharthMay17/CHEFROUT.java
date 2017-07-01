@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Chef and his daily routine
+   Problem Code: CHEFROUT
+   Contest: May long challenge 2017
+   Link: https://www.codechef.com/MAY17/problems/CHEFROUT
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class CHEFROUT {
