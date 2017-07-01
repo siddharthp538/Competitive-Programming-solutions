@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Is it a Snake
+   Problem Code: ISSNAKE
+   Contest: SnackDown Pre-Elemination Round A
+   Link: https://www.codechef.com/SNCKPA17/problems/ISSNAKE
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class ISSNAKE {
