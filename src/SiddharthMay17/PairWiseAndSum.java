@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Pair Wise And Sum
+   Problem Code: AND
+   Contest: Practic-Bits-Medium
+   Link: https://www.codechef.com/problems/AND
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class PairWiseAndSum {
