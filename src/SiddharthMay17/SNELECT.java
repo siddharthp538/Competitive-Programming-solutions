@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Snakes, Mongooses and the Ultimate Election
+   Problem Code: SNELECT
+   Contest: SnackDown Pre-Elemination Round B
+   Link: https: https://www.codechef.com/SNCKPB17/problems/SNELECT
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class SNELECT {
