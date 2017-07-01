@@ -1,5 +1,9 @@
 package SiddharthMay17;
-
+/* Problem Name: Team Formation For Snackdown 
+   Problem Code: TEAMFROM
+   Contest: SnackDown Pre-Elemination Round A
+   Link: https://www.codechef.com/SNCKPA17/problems/TEAMFORM
+*/
 import java.util.Scanner;
 
 class TEAMFORM {
