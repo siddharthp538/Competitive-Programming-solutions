@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Snake Procession
+   Problem Code: SNAKPROC
+   Contest: SnackDown Online Qualifier 2017
+   Link: https: https://www.codechef.com/SNCKQL17/problems/SNAKPROC
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class SnackA {
