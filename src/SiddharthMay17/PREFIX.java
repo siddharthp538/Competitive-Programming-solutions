@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Prefix Inversions
+   Problem Code: PREFINVS
+   Contest: May Lunchtime 2017
+   Link: https:https://www.codechef.com/LTIME48/problems/PREFINVS/
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class PREFIX {
