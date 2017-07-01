@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Same Snake 
+   Problem Code: SAMESNAK
+   Contest: SnackDown Qualifier Round 2017
+   Link: https: https://www.codechef.com/SNCKQL17/problems/SAMESNAK
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class SAMESNAK2 {
