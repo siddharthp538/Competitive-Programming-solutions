@@ -1,5 +1,10 @@
 package SiddharthJULY17;
-
+/* Problem Name: A problem with queries
+   Problem Code:  TSECJ01
+   Contest: Tsec Codeathon
+   Link: https://www.codechef.com/TSCD2017/problems/TSECJ01
+   author: siddharthp538
+ */
 import java.util.Scanner;
 
 class TSEC_E {
