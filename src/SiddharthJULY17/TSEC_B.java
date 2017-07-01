@@ -1,5 +1,10 @@
 package SiddharthJULY17;
-
+/* Problem Name: Rube Goldberg machine 
+   Problem Code: TSECJ04
+   Contest: Tsec Codeathon
+   Link: https://www.codechef.com/TSCD2017/problems/TSECJ04
+   author: siddharthp538
+ */
 import java.util.HashMap;
 import java.util.Scanner;
 
