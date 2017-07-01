@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Temple Land 
+   Problem Code: TEMPLELA
+   Contest: SnackDown Qualification Round 
+   Link: https:https://www.codechef.com/SNCKQL17/problems/TEMPLELA
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class SnackB {
