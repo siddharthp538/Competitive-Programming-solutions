@@ -1,5 +1,11 @@
 package SiddharthJULY17;
-/*
+
+/* Problem Name: Factory acquisition 
+   Problem Code:  TSECJ03
+   Contest: Tsec Codeathon
+   Link: https://www.codechef.com/TSCD2017/problems/TSECJ03
+   author: siddharthp538
+ */
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
@@ -43,4 +49,3 @@ class TSEC_D {
 	}
 
 }
-*/
