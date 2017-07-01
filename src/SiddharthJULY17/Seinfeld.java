@@ -1,5 +1,10 @@
 package SiddharthJULY17;
-
+/* Problem Name: Seinfeld
+   Problem Code: ANARC09A
+   Contest: Practice-DP
+   Link: http://www.spoj.com/problems/ANARC09A/
+   author: siddharthp538
+ */
 import java.util.Scanner;
 import java.util.Stack;
 
