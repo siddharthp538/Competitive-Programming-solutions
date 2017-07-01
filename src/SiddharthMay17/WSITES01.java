@@ -1,5 +1,7 @@
 package SiddharthMay17;
-
+// Problem from CodeChef's May Long Challenge 2017
+// Problem No: 5
+// Link to the problem: https://www.codechef.com/MAY17/problems/WSITES01
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
