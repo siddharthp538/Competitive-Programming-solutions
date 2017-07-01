@@ -1,5 +1,11 @@
 package SiddharthMay17;
-
+/* Problem Name: Sub-Inversing 
+   Problem Code: SUBINVER 
+   Contest: May Lunchtime 2017
+   Link: https: https://www.codechef.com/LTIME48/problems/SUBINVER
+   author: siddharthp538
+   Note that this is the solution for partial points. I'll be updating with the full one in future.
+*/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
