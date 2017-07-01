@@ -1,5 +1,9 @@
 package SiddharthMay17;
-
+/* Problem Name: Courses in an university 
+   Problem Code: UNICOURS
+   Contest: May Long Challenge 2017
+   Link: https://www.codechef.com/MAY17/problems/UNICOURS
+*/
 import java.util.Scanner;
 
 class UNICOURS {
