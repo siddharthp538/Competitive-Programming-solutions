@@ -1,6 +1,6 @@
 package SiddharthMay17;
 /* Problem Name: Team Formation For Snackdown 
-   Problem Code: TEAMFROM
+   Problem Code: TEAMFORM
    Contest: SnackDown Pre-Elemination Round A
    Link: https://www.codechef.com/SNCKPA17/problems/TEAMFORM
 */
