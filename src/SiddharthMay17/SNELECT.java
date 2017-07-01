@@ -1,7 +1,7 @@
 package SiddharthMay17;
 /* Problem Name: Snakes, Mongooses and the Ultimate Election
    Problem Code: SNELECT
-   Contest: SnackDown Pre-Elemination Round B
+   Contest: SnackDown Pre-Elemination Round B 2017
    Link: https: https://www.codechef.com/SNCKPB17/problems/SNELECT
    author: siddharthp538
 */
