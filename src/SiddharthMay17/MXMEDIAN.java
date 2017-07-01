@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Median of adjacent maximum numbers
+   Problem Code: : MXMEDIAN
+   Contest: May long challenge 2017
+   Link: https://www.codechef.com/MAY17/problems/MXMEDIAN
+   author: siddharthp538
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 
