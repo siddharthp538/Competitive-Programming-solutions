@@ -1,5 +1,10 @@
 package SiddharthJULY17;
-
+/* Problem Name: Chef and string challenge
+   Problem Code: TSECJ02
+   Contest: Tsec-Codeathon 2017
+   Link: https://www.codechef.com/TSCD2017/problems/TSECJ02
+   author: siddharthp538
+ */
 import java.util.HashMap;
 import java.util.Scanner;
 
