@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: One Dimensional Kingdoms 
+   Problem Code: ONEKING
+   Contest: Practice-Medium
+   Link: https: https://www.codechef.com/problems/ONEKING
+   author: siddharthp538
+*/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
