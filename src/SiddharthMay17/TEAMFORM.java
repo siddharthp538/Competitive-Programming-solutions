@@ -3,6 +3,7 @@ package SiddharthMay17;
    Problem Code: TEAMFORM
    Contest: SnackDown Pre-Elemination Round A
    Link: https://www.codechef.com/SNCKPA17/problems/TEAMFORM
+   author: siddharthp538
 */
 import java.util.Scanner;
 
