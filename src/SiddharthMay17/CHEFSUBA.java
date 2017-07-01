@@ -1,5 +1,10 @@
 package SiddharthMay17;
-
+/* Problem Name: Chef and subarray 
+   Problem Code: CHEFSUBA
+   Contest: May long challenge 2017
+   Link: https://www.codechef.com/MAY17/problems/CHEFSUBA
+   author: siddharthp538
+*/
 import java.util.Scanner;
 
 class CHEFSUBA {
